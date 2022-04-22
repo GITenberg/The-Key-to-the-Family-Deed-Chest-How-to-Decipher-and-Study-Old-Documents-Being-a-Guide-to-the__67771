@@ -5,12 +5,17 @@ contributor:
     agent_name: Martin, C. Trice
     gutenberg_agent_id: '54452'
     url: http://www.gutenberg.org/2009/agents/54452
+covers:
+- cover_type: archival
+  image_path: 67771-h/images/cover.jpg
 creator:
   author:
     agent_name: Thoyts, Emma Elizabeth
     gutenberg_agent_id: '54451'
     url: http://www.gutenberg.org/2009/agents/54451
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/67771#The-Key-to-the-Family-Deed-Chest-How-to-Decipher-and-Study-Old-Documents-Being-a-Guide-to-the_
 gutenberg_issued: '2022-04-04'
 identifiers:
   gutenberg: '67771'
